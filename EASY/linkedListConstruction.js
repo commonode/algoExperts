@@ -52,7 +52,7 @@ class DoublyLinkedList {
     // O(1) time | O(1) space
     insertAfter(node, nodeToInsert) {
         if (nodeToInsert === this.head && nodeToInsert === this.tail) return;
-        this,remove(nodeToInsert);
+        this.remove(nodeToInsert);
         nodeToInsert.prev = node;
         nodeToInsert.next = node.next;
         if (node.next === null) {
