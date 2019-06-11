@@ -1,5 +1,5 @@
 // Max Profit with K Transactions
-
+// 
 // You are given an array of integers representing the prices of a single stock on various days.
 
 // You are also given an integer k which represents the number of transactions you are allowed to make.One transaction consists of buying the stock on a given day and selling it on another, later day.
