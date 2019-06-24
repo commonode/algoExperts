@@ -1,5 +1,5 @@
 // Iterative In-order Traversal
-
+// 
 // Write a function that takes in a Binary Tree and traverses it using the in -order traversal technique without recursion.
 
 // As the tree is being traversed, a callback function passed in as an argument to the main function should be called on each node. 
