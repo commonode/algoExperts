@@ -1,1 +1,3 @@
 Boggle Board
+
+You are given a two-dimensional array (matrix) of potentially unequal height and width containing letters; this matrix represents a boggle board.  You are also given a list of words.  Write a fuction that returns an array of all the words contained in the boggle board.  A word is constructed in the boggle board by connecting adjacent (horizontally, vertically, or diagonally) letters, without using any single letter at a given position more than oncuechange; while words can of course have repeated letters, those repeated letters must come from diferent positions in the boggle board in order for the word to be contained in the board.  Note that two or more words are allowed to overlap and use the same letters in the boggle board.  
