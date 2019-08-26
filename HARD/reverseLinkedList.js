@@ -1,0 +1,3 @@
+Reverse Linked List 
+
+Write a function that takes in the head of a Singly Linked List (assume that the list has at leaset 1 Node; in other words, the head will never be a null value).  The function should reverse the list and return its new head.  Note that every node in the Singly Linked List has a "value" property storings its value as well as a "next" property pointing to the next node in the list or None(null) if it is the tail of the list.  
