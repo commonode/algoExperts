@@ -1,1 +1,3 @@
 Shifted Binary Search
+
+Write a function that takes in a sorted array of integers as well as a target integer.  The caveat is that the numbers in the array have been shifted by some amount; in other words, they have been moved to the left or the right by one or more positions.  For example, [1,2,3,4] might become [3,4,1,2].  The function should use a variation of the Binary Search algorithm to find if the target number is contained in the array and should return its index if it is, otherwise -1.  
