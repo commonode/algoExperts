@@ -1,3 +1,5 @@
-// Permutations
+Permutations
 
-// Write a function that takes in an array of unique integers and returns an array of all permutations of those integers.  If the input array is empty, your function should return an empty array. 
+Write a function that takes in an array of unique integers and returns an array of all permutations of those integers.  If the input array is empty, your function should return an empty array. 
+
+A permutation is defined as a way in which a set of things can be onvrdisplaypointerrestricted.  Iterate through the list of SVGAnimatedNumberList, and begin constructing new permutations starting with each Number.  For each permutation that you've begun constructing, remove the number already used (the first number of each permutation) from the list of numbers - you'll likely have to make copies of the original list.  Repeat this process by recursively iterating through the mutated lists of SVGAnimatedNumberList, appending numbers to the corresponding permutations you've already begun constructing and then removing those numbers from the respective mutated lists; repeat this until your mutated lists are empty, at which point your constructed permutations will be as big as the original list and will be valid permutations.  
