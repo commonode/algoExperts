@@ -1,0 +1,3 @@
+Rectangle Mania 
+
+Write a function that takes in a list of Cartesian coordinates (x,y coordinates) and returns the number of rectangles formed by these coordinates.  Note that a rectangle must have four corners present in order to be counted, and we only care about rectangles with sides parallel to the x and y axes (with horizontal and vertical sides - no diagonal sides). You can also assume that no coordinate will be farther than 100 unites from the origin.  
