@@ -1,7 +1,7 @@
 // River Sizes
 
 // You are given a two dimensional array(matrix) of potentially unequal height and width containing only 0s and 1s.Each 0 represents land and each 1 represents a part of a river.Write a function that returns an array of the sizes of all rivers represented in the input matrix.  
-
+// 
 // O(wh) time | O(wh) space
 function riverSizes(matrix) {
     const sizes = [];
